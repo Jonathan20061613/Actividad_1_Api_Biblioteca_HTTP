@@ -73,7 +73,7 @@ api-biblioteca-http/
 **1. Clonar el repositorio**
 
 ```bash
-git clone <URL_DE_TU_REPOSITORIO_EN_GITHUB>
+git clone <https://github.com/Jonathan20061613/Actividad_1_Api_Biblioteca_HTTP.git>
 cd api-biblioteca-http
 ```
 
