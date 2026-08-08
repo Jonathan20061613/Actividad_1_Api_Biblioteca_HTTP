@@ -15,17 +15,17 @@ API construida con Node.js y TypeScript para gestionar un catálogo de libros en
 
 ## Tabla de Contenidos
 
-1. [Descripción del Proyecto](#-descripción-del-proyecto)
-2. [Estructura del Proyecto](#-estructura-del-proyecto)
-3. [Requisitos Previos e Instalación](#️-requisitos-previos-e-instalación)
-4. [Ejecución del Servidor](#-ejecución-del-servidor)
-5. [Verificación, Compilación y Producción](#-verificación-compilación-y-producción)
-6. [Endpoints de la API](#-endpoints-de-la-api)
-7. [Ejemplos de Uso](#-ejemplos-de-uso)
-8. [Pruebas y Evidencias](#-pruebas-y-evidencias)
-9. [Limitaciones](#️-limitaciones)
-10. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-11. [Autor](#-autor)
+1. [Descripción del Proyecto](#descripción-del-proyecto)
+2. [Estructura del Proyecto](#estructura-del-proyecto)
+3. [Requisitos Previos e Instalación](#requisitos-previos-e-instalación)
+4. [Ejecución del Servidor](#ejecución-del-servidor)
+5. [Verificación, Compilación y Producción](#verificación-compilación-y-producción)
+6. [Endpoints de la API](#endpoints-de-la-api)
+7. [Ejemplos de Uso](#ejemplos-de-uso)
+8. [Pruebas y Evidencias](#pruebas-y-evidencias)
+9. [Limitaciones](#limitaciones)
+10. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+11. [Autor](#autor)
 
 ---
 
@@ -123,7 +123,7 @@ npm start
 
 ## Endpoints de la API
 
-A continuación se resume la tabla de endpoints expuestos por el servidor. Para revisar los payloads de petición/respuesta y las reglas detalladas de validación, consulta la 📄 **[Documentación Técnica de Endpoints](./docs/endpoints.md)**.
+A continuación se resume la tabla de endpoints expuestos por el servidor. Para revisar los payloads de petición/respuesta y las reglas detalladas de validación, consulta la **[Documentación Técnica de Endpoints](./docs/endpoints.md)**.
 
 | Método | Endpoint | Descripción | Éxito | Errores |
 |:------:|----------|-------------|:-----:|---------|
@@ -236,8 +236,8 @@ Invoke-RestMethod -Uri "http://localhost:3000/api/books/1"
 
 ## Autor
 
-**Jonathan Andrés Jiménez Aguilera - 3311976** -
-Análisis y Desarrollo de Software (ADSO) — SENA 
+**Jonathan Andrés Jiménez Aguilera - 3311976**
+Análisis y Desarrollo de Software (ADSO) — SENA
 
 ---
 
